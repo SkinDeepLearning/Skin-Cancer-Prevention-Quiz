@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5wlVjo7Qgu1_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">SkinCancerPrevention_Quiz_V1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="SkinCancerPrevention_Quiz_V1_ORG">
+    <organization identifier="SkinCancerPrevention_Quiz_V1_ORG">
+      <title>SkinCancerPrevention_Quiz_V1</title>
+      <item identifier="SDBE_TEMPLATES_V1_D2_SCO" isvisible="true" identifierref="__5wlVjo7Qgu1_course_id_RES">
+        <title>SkinCancerPrevention_Quiz_V1</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5wlVjo7Qgu1_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6ITwmSl6JZn_P_341_0_1706_1280.png" />
+      <file href="mobile/6hcP6wpQzUu.png" />
+      <file href="mobile/5Y1rXe4LY3b_80.jpg" />
+      <file href="mobile/6T2rqiPT566_P_347_341_580_1706.png" />
+      <file href="mobile/6UNzd4bg6hg.png" />
+      <file href="mobile/6JJonvrsPX4_80_P_429_-4_1365_1365.jpg" />
+      <file href="mobile/5x3Ai4qtjo7_80_P_341_0_1362_1365.jpg" />
+      <file href="mobile/5ufAeYGc3j3.png" />
+      <file href="mobile/6JjdtMBaBQq.png" />
+      <file href="mobile/6X039Qyc24o.png" />
+      <file href="mobile/6VkbU6eF7FK.png" />
+      <file href="mobile/5uGHYXRkL9b.png" />
+      <file href="mobile/5o9TWOpJwg6.png" />
+      <file href="mobile/6AdtBOL22PD_P_0_230_2048_1535.png" />
+      <file href="story_content/report.html" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bqH8ABozbX.js" />
+      <file href="html5/data/js/5wEB81fpc1Z.js" />
+      <file href="html5/data/js/61dnu7vgWRH.js" />
+      <file href="html5/data/js/6fE6yUm8byX.js" />
+      <file href="html5/data/js/6g3YW6xCexF.js" />
+      <file href="html5/data/js/6iSt1URRncu.js" />
+      <file href="html5/data/js/6qDXUgUXXIG.js" />
+      <file href="html5/data/js/6XIQm5Vu3Wf.js" />
+      <file href="html5/data/js/6Xt0GXs6Hdd.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
